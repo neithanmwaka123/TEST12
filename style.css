@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(162, 154, 154) ;
+}
+.icon12{
+    margin-left:40%;
+    display: flex;
+    justify-content: space-between;
+    align-items:centre;
+    
+
+}
+.form{
+    background: #fff;
+    border-radius:20px;
+    width: 400px;
+    height: 440px;
+    border-radius: 20px;
+    border: 2px solid rgb(rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255));
+    display: flex;
+    justify-content: space-between;
+    align-items: centre;
+
+}
